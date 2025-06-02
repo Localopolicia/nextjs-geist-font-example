@@ -1,0 +1,26 @@
+/* [next]/internal/font/google/sunshiney_f8b791b8.module.css [app-client] (css) */
+@font-face {
+  font-family: Sunshiney;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/LDIwapGTLBwsS_wT4vcQFMOpc_DGkw-s.p.f71136d9.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Sunshiney Fallback;
+  src: local(Arial);
+  ascent-override: 128.69%;
+  descent-override: 38.64%;
+  line-gap-override: 3.41%;
+  size-adjust: 77.33%;
+}
+
+.sunshiney_f8b791b8-module__pzi9Oa__className {
+  font-family: Sunshiney, Sunshiney Fallback;
+  font-style: normal;
+  font-weight: 400;
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_sunshiney_f8b791b8_module_css_f9ee138c._.single.css.map*/
